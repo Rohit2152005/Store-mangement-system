@@ -1,0 +1,15 @@
+
+Store Management
+
+1.Add a Seller
+
+2.Add a Customer
+
+3.Make Purchases
+
+4. View Inventory 
+
+5. Make Sales
+
+6. View Inventory again to note changes.
+
